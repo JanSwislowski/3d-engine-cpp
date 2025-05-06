@@ -3,9 +3,6 @@
 #include <algorithm>
 #include <math.h>
 using namespace std;
-struct Point{
-    float x,y,z;
-};
 class Cube {
 public:
     float x, y, z, a;
